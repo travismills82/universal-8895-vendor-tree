@@ -1,0 +1,9 @@
+#
+# ADDITIONAL VENDOR DEFAULT PROPERTIES
+#
+ro.vndk.version=28
+persist.sys.usb.config=mtp
+ro.zygote=zygote64_32
+ro.vendor.epdg.support=true
+ro.logd.size.stats=64K
+log.tag.stats_log=I
