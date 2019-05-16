@@ -1,8 +1,8 @@
 
-ro.product.first_api_level=26
-ro.vendor.build.date=Tue Mar 12 15:10:54 KST 2019
-ro.vendor.build.date.utc=1552371054
-ro.vendor.build.fingerprint=samsung/dreamltexx/dreamlte:9/PPR1.180610.011/G950FXXU2CSC8:user/release-keys
+ro.product.first_api_level=24
+ro.vendor.build.date=Thu Apr 25 16:34:56 KST 2019
+ro.vendor.build.date.utc=1556177696
+ro.vendor.build.fingerprint=samsung/dreamltexx/dreamlte:9/PPR1.180610.011/G950FXXU4DSDA:user/release-keys
 ro.vendor.build.security_patch=
 ro.vendor.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
 ro.vendor.product.cpu.abilist32=armeabi-v7a,armeabi

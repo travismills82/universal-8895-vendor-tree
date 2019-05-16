@@ -15,3 +15,4 @@ vendor_ddar_deny_deaccess::5300:
 vendor_remotedisplay::5386:
 vendor_felicalock::5504:
 vendor_audit::5555:
+vendor_system_reserved_storage::5678:

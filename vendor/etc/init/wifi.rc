@@ -56,3 +56,6 @@ service macloader /system/vendor/bin/hw/macloader
     oneshot
 
 # end of WiFi MFG (TestMode)
+
+on property:vold.decrypt=trigger_restart_framework
+exec /vendor/bin/hw/macloader

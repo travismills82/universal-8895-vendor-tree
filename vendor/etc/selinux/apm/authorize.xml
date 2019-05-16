@@ -2049,6 +2049,8 @@
             <package name="com.samsung.android.messaging" seinfo="platform" />
             <package name="com.samsung.android.messaging" seinfo="shared" />
             <package name="com.samsung.android.dialer" seinfo="platform" />
+            <package name="com.kddi.android.cmail" seinfo="platform" />
+            <package name="com.kddi.android.cmail" seinfo="shared" />
         </method>
 
         <method name="isBluetoothEnterpriseContactSharingDisabled">
@@ -2057,6 +2059,8 @@
             <package name="com.samsung.android.contacts" seinfo="shared" />
             <package name="com.samsung.android.messaging" seinfo="platform" />
             <package name="com.samsung.android.messaging" seinfo="shared" />
+            <package name="com.kddi.android.cmail" seinfo="platform" />
+            <package name="com.kddi.android.cmail" seinfo="shared" />
         </method>
 
         <method name="openCorpContactPicture">
@@ -2067,6 +2071,8 @@
             <package name="com.samsung.android.contacts" seinfo="shared" />
             <package name="com.samsung.android.messaging" seinfo="platform" />
             <package name="com.samsung.android.messaging" seinfo="shared" />
+            <package name="com.kddi.android.cmail" seinfo="platform" />
+            <package name="com.kddi.android.cmail" seinfo="shared" />
         </method>
     </service>
 
