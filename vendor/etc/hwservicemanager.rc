@@ -1,0 +1,14 @@
+service hwservicemanager /vendor/bin/hwservicemanager
+    user system
+    disabled
+    group system readproc
+    critical
+    onrestart setprop hwservicemanager.ready false
+    onrestart class_restart hal
+    onrestart class_restart early_hal
+    onrestart restart sec_gnss_service
+    onrestart restart sec-miscpower-1-0
+    onrestart restart vendor.health-hal-2-0
+    writepid /dev/cpuset/system-background/tasks
+    class animation
+    shutdown critical
